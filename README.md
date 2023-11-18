@@ -1,2 +1,2 @@
 # POO_Restaurante 
-Esse projeto será baseado sobre um sistema de gerenciamento de uma rede e o acesso dos usuários.
+Esse projeto será baseado sobre um atendimento ao publico num restaurante.
